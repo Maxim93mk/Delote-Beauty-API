@@ -32,7 +32,7 @@ app.get('/price/get-list', (req, res) => {
                 priceService: '1500 ₽',
             },
             {
-                nameService: 'ламинирование волос',
+                nameService: 'Ламинирование волос',
                 additionalService: '+ обработка кончинков волос',
                 priceService: '1000 ₽',
             },
